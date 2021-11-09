@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="400" height="346" viewBox="0, 0, 22, 19.05256" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="0,15.58846 2,19.05256 9,6.92820 12,12.12436 16,12.12436 9,0" fill="#f2f4f7ff"/>
+  <polygon points="2,19.05256 20,19.05256 22,15.58846 8,15.58846 11,10.39230 9,6.92820" fill="#e43a19"/>
+  <polygon points="10,12.12436 8,15.58846 22,15.58846 13,0 9,0 16,12.12436" fill="#111f4dff"/>
+</svg>
